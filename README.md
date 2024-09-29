@@ -183,6 +183,7 @@ A curated list of awesome niche job boards.
 
 ### Aggregator
 
+* [Interlink Jobs](https://interlinkjobs.com/) - STEM jobs hourly updated
 * [4 day week](https://4dayweek.io/) - Software jobs with a better work-life balance
 * [remote | OK](https://remoteok.com/)
 * [whoishiring.io](https://whoishiring.io/)
